@@ -1,6 +1,3 @@
-/*          Name: Nisarg Patel
-            GMU ID: G00944795
-*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
